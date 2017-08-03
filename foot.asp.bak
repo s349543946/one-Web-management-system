@@ -1,0 +1,12 @@
+<div id="line"></div>
+  <div id="link">
+    <div class="link"><span>友情链接：</span><%=xycms_link()%></div>
+  </div>
+  <div id="foot">
+    <div class="f_dc">
+      版权所有 &copy; <%=wzname%> Copyright&copy; 2008-2013.All Rights Reserved <%=icp%>  服务热线：<%=telnum%> 
+    </div>
+    <div class="f_dc">
+      技术支持：<a href="http://www.jsxyidc.com/" target="_blank">哈哈哈哈</a>
+    </div>
+  </div>
